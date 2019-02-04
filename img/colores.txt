@@ -1,3 +1,15 @@
 
 
-#B0D9D7, #E3E0BD, #F5E8A9, #FB980F, #FD7900, #428900, #E7411F
+#B0D9D7 header font color, 
+
+#E3E0BD body font color, 
+
+#F5E8A9 primario, 
+
+#FB980F  secundario, 
+
+#FD7900 warning , 
+
+#428900 succes , 
+
+#E7411F alerta 
