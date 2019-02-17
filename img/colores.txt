@@ -1,15 +1,26 @@
 
+#F5E8A9 primario
 
-#B0D9D7 header font color, 
+#FB980F  secundario
 
-#E3E0BD body font color, 
-
-#F5E8A9 primario, 
-
-#FB980F  secundario, 
-
-#FD7900 warning , 
+#E7411F alerta
 
 #428900 succes , 
 
-#E7411F alerta 
+#FD7900 warning
+
+#E3E0BD body font color, 
+
+#B0D9D7 header font color, 
+
+
+
+, 
+
+, 
+
+#FD7900 warning , 
+
+
+
+ 
