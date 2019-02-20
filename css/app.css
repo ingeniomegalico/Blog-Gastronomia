@@ -11,25 +11,25 @@ html {
   }
 
 header h1 {
-  text-align: right;
   line-height: 1;
   color: rgb(246, 246, 246);
 }
 
-nav ul {
-  list-style: none;
+h1,.letra {
+  color: rgb(246, 246, 246);
 }
 
-h1 {
-  color: white;
+.comment {
+  -webkit-filter: invert(90%);
 }
+
 
 /* NOTE: quede aqui pendiente de modificar los asidde hover */
 aside
 
 /* NOTE: media querie para pantalla de 900 pixeles */
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 800px) {
 
   header h1 {
     text-align: center;
